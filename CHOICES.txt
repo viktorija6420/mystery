@@ -2,7 +2,7 @@ CHOICES
 
 First Choice:1. [Get to work helping. Take a look around the room. Look for people and things that look suspicious or stand out. The sooner begun, the sooner done.](2a.md)
 
-Second Choice: ____
+Second Choice: [Approach Helga and the Doctor](3a.md)
 Third Choice: ____
 Fourth Choice: ____
 Fifth Choice: ____
