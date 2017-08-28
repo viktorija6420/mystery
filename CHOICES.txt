@@ -1,6 +1,7 @@
 CHOICES
 
-First Choice: ____
+First Choice:1. [Get to work helping. Take a look around the room. Look for people and things that look suspicious or stand out. The sooner begun, the sooner done.](2a.md)
+
 Second Choice: ____
 Third Choice: ____
 Fourth Choice: ____
